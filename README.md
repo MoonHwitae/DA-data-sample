@@ -1,7 +1,7 @@
 (단위: 개,백만원,명)   
 (단위: 명,%)
 
-보고서에 참고할만한 자료: [통계 데이터 활용대회 수상작 목록]([https://data.kostat.go.kr/sbchome/bbs/boardList.do](https://data.kostat.go.kr/sbchome/bbs/boardList.do?boardId=SBCSBBS_000000017002&curMenuNo=OPT_08_06_00_0))
+보고서에 참고할만한 자료: [통계 데이터 활용대회 수상작 목록](https://data.kostat.go.kr/sbchome/bbs/boardList.do?boardId=SBCSBBS_000000017002&curMenuNo=OPT_08_06_00_0)
 
 
 데이터 출처:
